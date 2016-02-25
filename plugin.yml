@@ -1,0 +1,10 @@
+main: me.redraskal.MegaWalls.MegaWalls
+name: MegaWalls
+version: 1.0
+author: redraskal
+description: "A perfect copy of Hypixel's Mega Walls gamemode."
+load: STARTUP
+
+commands:
+  walls:
+    description: Main Mega Walls command.
